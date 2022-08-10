@@ -1,0 +1,17 @@
+.outer {
+    background: yellow;
+    padding: 3em 0;
+  }
+  .outer.red {
+    background: red;
+    height: 60px;
+  }
+  .inner {
+    background: green;
+    width: 500px;
+    margin: 0 auto;
+    color: #fff
+  }
+  .inner p {
+    border-bottom: 2px solid blue;
+  }
