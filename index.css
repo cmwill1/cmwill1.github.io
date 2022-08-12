@@ -1,13 +1,13 @@
 .outer {
-    background: yellow;
+    background: rgb(76, 88, 127);
     padding: 3em 0;
   }
   .outer.red {
-    background: red;
+    background: rgb(123, 156, 210);
     height: 60px;
   }
   .inner {
-    background: green;
+    background: rgb(101, 157, 172);
     width: 500px;
     margin: 0 auto;
     color: #fff
